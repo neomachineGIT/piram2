@@ -1,0 +1,8 @@
+C:\Users\NeoMachine\source\repos\piram2\piram2\bin\Debug\piram2.exe.config
+C:\Users\NeoMachine\source\repos\piram2\piram2\bin\Debug\piram2.exe
+C:\Users\NeoMachine\source\repos\piram2\piram2\bin\Debug\piram2.pdb
+C:\Users\NeoMachine\source\repos\piram2\piram2\obj\Debug\piram2.csproj.AssemblyReference.cache
+C:\Users\NeoMachine\source\repos\piram2\piram2\obj\Debug\piram2.csproj.SuggestedBindingRedirects.cache
+C:\Users\NeoMachine\source\repos\piram2\piram2\obj\Debug\piram2.csproj.CoreCompileInputs.cache
+C:\Users\NeoMachine\source\repos\piram2\piram2\obj\Debug\piram2.exe
+C:\Users\NeoMachine\source\repos\piram2\piram2\obj\Debug\piram2.pdb
